@@ -63,8 +63,7 @@
 				C26ACE8029A3CF1F00C3866E /* Models */,
 				C26ACE6B29A3C26C00C3866E /* AppDelegate.swift */,
 				C26ACE6D29A3C26C00C3866E /* SceneDelegate.swift */,
-				C26ACE6F29A3C26C00C3866E /* QuestionViewController.swift */,
-				C26ACE8329A3F75E00C3866E /* ResultViewController.swift */,
+				C2D7D28129A559B300094848 /* ViewControllers */,
 				C2D7D28029A5597D00094848 /* Storyboards */,
 				C26ACE7429A3C26F00C3866E /* Assets.xcassets */,
 				C26ACE7929A3C26F00C3866E /* Info.plist */,
@@ -87,6 +86,15 @@
 				C26ACE7629A3C26F00C3866E /* LaunchScreen.storyboard */,
 			);
 			path = Storyboards;
+			sourceTree = "<group>";
+		};
+		C2D7D28129A559B300094848 /* ViewControllers */ = {
+			isa = PBXGroup;
+			children = (
+				C26ACE6F29A3C26C00C3866E /* QuestionViewController.swift */,
+				C26ACE8329A3F75E00C3866E /* ResultViewController.swift */,
+			);
+			path = ViewControllers;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
