@@ -65,9 +65,8 @@
 				C26ACE6D29A3C26C00C3866E /* SceneDelegate.swift */,
 				C26ACE6F29A3C26C00C3866E /* QuestionViewController.swift */,
 				C26ACE8329A3F75E00C3866E /* ResultViewController.swift */,
-				C26ACE7129A3C26C00C3866E /* Main.storyboard */,
+				C2D7D28029A5597D00094848 /* Storyboards */,
 				C26ACE7429A3C26F00C3866E /* Assets.xcassets */,
-				C26ACE7629A3C26F00C3866E /* LaunchScreen.storyboard */,
 				C26ACE7929A3C26F00C3866E /* Info.plist */,
 			);
 			path = "Personal Quiz";
@@ -79,6 +78,15 @@
 				C26ACE8129A3CFD100C3866E /* Question.swift */,
 			);
 			path = Models;
+			sourceTree = "<group>";
+		};
+		C2D7D28029A5597D00094848 /* Storyboards */ = {
+			isa = PBXGroup;
+			children = (
+				C26ACE7129A3C26C00C3866E /* Main.storyboard */,
+				C26ACE7629A3C26F00C3866E /* LaunchScreen.storyboard */,
+			);
+			path = Storyboards;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
