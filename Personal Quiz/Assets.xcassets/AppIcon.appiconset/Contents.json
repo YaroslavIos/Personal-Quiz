@@ -26,16 +26,19 @@
       "size" : "40x40"
     },
     {
+      "filename" : "Illustration - magnifying glass front120-1.png",
       "idiom" : "iphone",
       "scale" : "3x",
       "size" : "40x40"
     },
     {
+      "filename" : "Illustration - magnifying glass front120.png",
       "idiom" : "iphone",
       "scale" : "2x",
       "size" : "60x60"
     },
     {
+      "filename" : "Illustration - magnifying glass front180.png",
       "idiom" : "iphone",
       "scale" : "3x",
       "size" : "60x60"
@@ -69,6 +72,11 @@
       "idiom" : "ipad",
       "scale" : "2x",
       "size" : "40x40"
+    },
+    {
+      "idiom" : "ipad",
+      "scale" : "1x",
+      "size" : "76x76"
     },
     {
       "idiom" : "ipad",
@@ -81,6 +89,7 @@
       "size" : "83.5x83.5"
     },
     {
+      "filename" : "Illustration - magnifying glass front1024.jpg",
       "idiom" : "ios-marketing",
       "scale" : "1x",
       "size" : "1024x1024"
